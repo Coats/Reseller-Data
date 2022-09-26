@@ -3,3 +3,7 @@ reseller-subscriber/.DS_Store
 reseller-subscriber/src/.DS_Store
 wba-subscriber/src/.DS_Store
 wba-subscriber/src/.DS_Store
+wba-subscriber/src/main/resources/sre-dev-sandbox-pub-sub.json
+reseller-subscriber/src/main/resources/sre-dev-sandbox-pub-sub.json
+wba-subscriber/src/main/resources/application.properties
+reseller-subscriber/src/main/resources/application.properties
